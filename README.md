@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="capa-dashboard.png" alt="Dashboard de Vendas Porsche" width="900">
+</p>
 # 🚗 Dashboard de Vendas Porsche
 
 Projeto desenvolvido como parte de estudos e portfólio, com foco em análise e visualização de dados de vendas.
