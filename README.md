@@ -22,7 +22,7 @@ Interface interativa para acompanhar os dados de vendas da marca Porsche, com de
 
 ## 🚀 Como visualizar
 Basta acessar o link do projeto publicado:
-[🔗 Acessar Dashboard](https://seu-usuario.github.io/dashboard-porsche-vendas)
+[🔗 Acessar Dashboard](https://santiagop01.github.io/dashboard-porsche-vendas)
 
 ---
 
